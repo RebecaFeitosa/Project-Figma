@@ -1,2 +1,2 @@
 # Project-Figma
-Projeto desenvolvido no Figma para avaliação semestral da aula de desenvolvimento para internet na Uninove
+Projeto com design desenvolvido no Figma para avaliação semestral na aula de Desenvolvimento para Internet, Uninove.
